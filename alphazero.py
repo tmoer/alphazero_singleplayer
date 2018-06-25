@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 One-player Alpha Zero
-@author: thomas
+@author: Thomas Moerland, Delft University of Technology
 """
 
 import numpy as np
