@@ -1,7 +1,6 @@
 # Single player Alpha Zero implementation
 
-Forked from https://github.com/tmoer/alphazero_singleplayer.
-Mainly just adding docs so I can remember how to use it.
+Code for the blog post https://tmoer.github.io/AlphaZero/
 
 # Usage
 Tested with Ubuntu 21.10 python 3.7 (I used pyenv to run old python). Note that
